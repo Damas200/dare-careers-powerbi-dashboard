@@ -23,7 +23,7 @@ It enables program managers and trainers to:
 ```
 Dare-Careers-Dashboard/
 │
-├── Dare_Careers_Dashboard.pbix
+├── Module 6 data
 ├── README.md
 │
 └── images/
