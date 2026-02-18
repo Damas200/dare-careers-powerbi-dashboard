@@ -38,7 +38,7 @@ Dare-Careers-Dashboard/
 
 ## 🔹 Page 1 – Overall Performance
 
-![Overall Performance](page1_overall_performance.png)
+![Overall Performance](images/page1_overall_performance.png)
 
 This page provides a high-level summary of program performance.
 
@@ -76,7 +76,7 @@ This page provides a high-level summary of program performance.
 
 ## 🔹 Page 2 – Learner Insights
 
-![Learner Insights](page2_learner_insights.png)
+![Learner Insights](images/page2_learner_insights.png)
 
 This page provides detailed learner-level analysis.
 
